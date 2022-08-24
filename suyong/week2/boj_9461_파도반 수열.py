@@ -15,5 +15,3 @@ for _ in range(n):
         print(array[k-1])
     else:
         print(array[k-1])
-
-
