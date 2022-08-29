@@ -1,2 +1,2 @@
-# python-codingtest-study
-2022 python coding test study
+# Python Coding Test Study
+
