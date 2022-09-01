@@ -1,3 +1,8 @@
+# https://www.acmicpc.net/problem/14888
+# 백준 14888번 연산자 끼워넣기
+# 메모리: 524856KB
+# 시간: 3320ms
+# 코드길이: 1182B
 import sys
 from itertools import permutations
 
