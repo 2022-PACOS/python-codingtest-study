@@ -8,14 +8,8 @@ from itertools import permutations
 
 
 n = int(sys.stdin.readline())
-nums = []
-temp = sys.stdin.readline().split()
-for i in range(n):
-    nums.append(int(temp[i]))
-op = []
-temp = sys.stdin.readline().split()
-for i in range(len(temp)):
-    op.append(int(temp[i]))
+nums = list(map(int, sys.stdin.readline().split()))
+op = list(map(int, sys.stdin.readline().split()))
 
 per_tot = 0
 for i in op:
@@ -48,7 +42,6 @@ for i in a:
     strings = str(nums[0])
     for j in range(len(i)):
         if int(strings) < 0 and i[j] == "//":
-            string_temp = i[j] + str(nums[j+1])
             strings = str(-(abs((int(strings))) // nums[j+1]))
         else:
             string_temp = i[j] + str(nums[j+1])
