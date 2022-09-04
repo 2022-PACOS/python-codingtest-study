@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bc042cb-3e19-4490-87c8-7277c65544a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/suyong/week2/boj_1520_내리막 길.py" beforeDir="false" afterPath="$PROJECT_DIR$/suyong/week2/boj_1520_내리막 길.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suyong/week3/boj_2615_오목.py" beforeDir="false" afterPath="$PROJECT_DIR$/suyong/week3/boj_2615_오목.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="E:\python-codingtest-study\suyong" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.boj_1520_내리막 길">
+  <component name="RunManager" selected="Python.boj_2615_오목">
     <configuration name="boj_1107_리모컨" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-codingtest-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boj_2615_오목" />
         <item itemvalue="Python.boj_1520_내리막 길" />
         <item itemvalue="Python.boj_16637_괄호 추가하기" />
         <item itemvalue="Python.boj_14888_연산자 끼워넣기" />
         <item itemvalue="Python.boj_1107_리모컨" />
-        <item itemvalue="Python.boj_2615_오목" />
       </list>
     </recent_temporary>
   </component>

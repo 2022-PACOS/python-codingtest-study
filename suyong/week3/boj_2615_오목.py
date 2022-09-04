@@ -1,8 +1,8 @@
-# https://www.acmicpc.net/problem/2615
-# 백준 2615번 오목
-# 메모리: 30840KB
-# 시간: 72ms
-# 코드길이: 9645B
+# # https://www.acmicpc.net/problem/2615
+# # 백준 2615번 오목
+# # 메모리: 30840KB
+# # 시간: 72ms
+# # 코드길이: 9645B
 import sys
 
 array = []
@@ -238,9 +238,6 @@ for i in range(len(array)):
                     answer = 2
                     break
 
-        if array[i][j] == '0':
-            continue
-
 print(answer)
 if x != 0 and y != 0:
     print(x, y)
@@ -255,8 +252,8 @@ if x != 0 and y != 0:
 # # 시간: 72ms
 # # 코드길이: 1217B
 # import sys
+#
 # arr = [list(map(int, sys.stdin.readline().split())) for _ in range(19)]
-# print(arr)
 #
 # dx = [1, 0, 1, -1]
 # dy = [0, 1, 1, 1]
@@ -269,7 +266,6 @@ if x != 0 and y != 0:
 #                 nx = i + dx[k]
 #                 ny = j + dy[k]
 #                 cnt = 1
-#
 #                 while 0 <= nx < 19 and 0 <= ny < 19 and arr[nx][ny] == arr[i][j]:
 #                     cnt += 1
 #                     if cnt == 5:
@@ -282,7 +278,7 @@ if x != 0 and y != 0:
 #                         # 6목 아니고 5목일시
 #                         answer = arr[i][j]
 #                         print(answer)
-#                         print(i+1, j+1)
+#                         print(i + 1, j + 1)
 #                     nx += dx[k]
 #                     ny += dy[k]
 # if answer == 0:
