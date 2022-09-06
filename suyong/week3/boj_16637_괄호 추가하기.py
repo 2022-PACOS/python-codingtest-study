@@ -1,36 +1,17 @@
-# import sys
-# import copy
-#
-# n = int(sys.stdin.readline())
-#
-# expression = sys.stdin.readline().rstrip()
-# nums, op = [], []
-# for e in expression:
-#     nums.append(e) if e.isdigit() else op.append(e)
-# nums = list(map(int, nums))
-# print("nums: ", nums)
-# print("op: ", op)
-#
-#
-# def cal(a, oper, b):
-#     if oper == "+":
-#         return a+b
-#     if oper == "-":
-#         return a-b
-#     if oper == "*":
-#         return a*b
-#
-#
-# def dfs(0, ):
+# https://www.acmicpc.net/problem/16637
+# 백준 16637번 괄호 추가하기
+# 메모리: 실패
+# 시간: 실패
+# 코드길이: 실패
 import sys
-import copy
+import math
 
 n = int(sys.stdin.readline())
-
 expression = sys.stdin.readline().rstrip()
 nums, op = [], []
 for e in expression:
     nums.append(e) if e.isdigit() else op.append(e)
+answer = -math.inf
 
 
 def dfs(idx, sub_total):
@@ -52,14 +33,5 @@ def dfs(idx, sub_total):
         dfs(idx + 2, second)
 
 
-if __name__ == '__main__':
-    n = int(stdin.readline())
-    expression = stdin.readline().rstrip()
-    nums, op = [], []
-    answer = -inf
-
-    for e in expression:
-        nums.append(e) if e.isdigit() else op.append(e)
-
-    dfs(0, nums[0])
-    print(answer)
+dfs(0, nums[0])
+print(answer)
