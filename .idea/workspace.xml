@@ -36,7 +36,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CodingTest_Python/ecount" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -45,8 +45,8 @@
       <recent name="E:\python-codingtest-study\suyong" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.boj_13335_트럭">
-    <configuration name="boj_1107_리모컨" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.boj_17836_공주님을 구해라!">
+    <configuration name="boj_11123_양 한마리... 양 두마리..." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-codingtest-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suyong/week3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suyong/week5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suyong/week3/boj_1107_리모컨.py" />
+      <option name="SCRIPT_NAME" value="E:\python-codingtest-study\suyong\week5\boj_11123_양 한마리... 양 두마리....py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj_1406_에디터" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj_17836_공주님을 구해라!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-codingtest-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suyong/week4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suyong/week5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suyong/week4/boj_1406_에디터.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suyong/week5/boj_17836_공주님을 구해라!.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj_2800_괄호 제거" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj_5547_일루미네이션" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-codingtest-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suyong/week4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suyong/week5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suyong/week4/boj_2800_괄호 제거.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suyong/week5/boj_5547_일루미네이션.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj_3078_좋은 친구" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boj_9205_맥주 마시면서 걸어가기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-codingtest-study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suyong/week4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suyong/week5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suyong/week4/boj_3078_좋은 친구.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suyong/week5/boj_9205_맥주 마시면서 걸어가기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boj_17836_공주님을 구해라!" />
+        <item itemvalue="Python.boj_5547_일루미네이션" />
+        <item itemvalue="Python.boj_9205_맥주 마시면서 걸어가기" />
+        <item itemvalue="Python.boj_11123_양 한마리... 양 두마리..." />
         <item itemvalue="Python.boj_13335_트럭" />
-        <item itemvalue="Python.boj_3078_좋은 친구" />
-        <item itemvalue="Python.boj_1406_에디터" />
-        <item itemvalue="Python.boj_2800_괄호 제거" />
-        <item itemvalue="Python.boj_1107_리모컨" />
       </list>
     </recent_temporary>
   </component>
